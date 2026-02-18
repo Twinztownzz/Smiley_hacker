@@ -26,7 +26,7 @@ local Window = Rayfield:CreateWindow({
       Subtitle = ":)",
       Note = "https://pastebin.com/y1eeMJqU",
       FileName = "smiley_hacker",
-      SaveKey = false,
+      SaveKey = true,
       GrabKeyFromSite = false,
       Key = {"smile:)"}
    }
